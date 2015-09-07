@@ -12,4 +12,9 @@ add commit
 
 Git is free software ...
 
+<<<<<<< HEAD
 bendi
+=======
+clone...
+dfdf
+>>>>>>> bac5cfebb33346edd600d9a61c91958096ecdbd7
