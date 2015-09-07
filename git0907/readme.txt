@@ -8,4 +8,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick @ simple.
 >>>>>>> dev
 
-add commit
+add commit debug
