@@ -11,3 +11,6 @@ Creating a new branch is quick @ simple.
 add commit
 
 Git is free software ...
+
+clone...
+dfdf
