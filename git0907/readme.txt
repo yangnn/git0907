@@ -9,3 +9,5 @@ Creating a new branch is quick @ simple.
 >>>>>>> dev
 
 add commit
+
+Git is free software ...
